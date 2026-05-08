@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #050505;
+  color: white;
+  font-family: 'JetBrains Mono', monospace;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
